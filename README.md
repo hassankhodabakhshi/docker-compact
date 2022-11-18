@@ -16,6 +16,7 @@
 </h3>
 
 <code>mkdir -p ~/.docker/cli-plugins/ </code> 
+
 <code>curl -SL https://github.com/docker/compose/releases/download/v2.3.3/docker-compose-linux-x86_64 -o ~/.docker/cli-plugins/docker-compose</code>
 
 برای تأیید موفقیت آمیز بودن نصب، می توانید اجرا کنید:
